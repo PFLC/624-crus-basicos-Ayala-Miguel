@@ -64,4 +64,13 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 ---
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
+Estas aportaciones me podrian servir 
 
+Validación de entrada: valide la entrada del usuario en el lado del servidor para evitar manipulaciones maliciosas o errores del usuario.
+
+Funcionalidad de búsqueda: implemente una función de búsqueda para permitir a los usuarios encontrar usuarios específicos en la lista.
+Estos codigos podrian servirme para mi trabajo 
+
+![image](https://github.com/PFLC/624-crus-basicos-Ayala-Miguel/assets/114215515/5fca1702-1ac2-4afb-8efd-609a78b3873a)
+
+![image](https://github.com/PFLC/624-crus-basicos-Ayala-Miguel/assets/114215515/53551867-bdb3-4b32-9b73-66b496fb3f84)
